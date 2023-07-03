@@ -33,3 +33,20 @@ header {
     text-align: center;
     padding: 16px 0;
 }
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+.estudante-todos{
+    display: grid;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+
+}
